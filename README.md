@@ -1,10 +1,12 @@
 ## Hey there 👋, I'm [Saran](https://saranbodduluri.github.io)
----
 
 ### About Me 
 
-🎓 Hi. I am a Freshman Computer Science student, Math and Finance Enthusiast, Researcher and web-developer. 
+- 🎓 Hi. I am a Freshman Computer Science student, Math and Finance Enthusiast, Researcher and web-developer.  
+- 📚 I like reading philosophy and sci-fi.
+- 🌱 I’m currently learning machine learning and web development.
 
+---
 ### Contact 📫
 
 [LinkedIn](https://linkedin.com/in/saranbodduluri)
