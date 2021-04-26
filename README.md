@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hey there 👋, I'm [Saran](https://saranbodduluri.github.io)
+---
+
+### About Me 
+
+🎓 Hi. I am a Freshman Computer Science student, Math and Finance Enthusiast, Researcher and web-developer. 
+
+### Contact 📫
+
+[LinkedIn](https://linkedin.com/in/saranbodduluri)
+
 
 <!--
 **SaranBodduluri/saranbodduluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
