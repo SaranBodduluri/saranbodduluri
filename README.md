@@ -11,7 +11,9 @@
 
 [LinkedIn](https://linkedin.com/in/saranbodduluri)
 
-![](https://komarev.com/ghpvc/?username=SaranBodduluri)
+
+<!--
+![](https://komarev.com/ghpvc/?username=SaranBodduluri&label=visitors)
 
 
 <!--
