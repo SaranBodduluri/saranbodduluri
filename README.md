@@ -11,6 +11,8 @@
 
 [LinkedIn](https://linkedin.com/in/saranbodduluri)
 
+![](https://komarev.com/ghpvc/?username=SaranBodduluri)
+
 
 <!--
 **SaranBodduluri/saranbodduluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
