@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning machine learning and web development.
 - 👯 I’m looking forward to collaborate on cool React frontends as well as ML projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaranBodduluri&count_private=true)
 
 ---
 ### Contact 📫
@@ -17,6 +16,7 @@
 
 <!--
 ![](https://komarev.com/ghpvc/?username=SaranBodduluri&label=visitors)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=idk&count_private=true)
 
 
 <!--
