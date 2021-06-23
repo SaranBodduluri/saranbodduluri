@@ -1,11 +1,11 @@
-## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm [Saran](https://saranbodduluri.github.io)
+## <h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm [Saran](https://saranbodduluri.github.io) </h1>
 
 ### About Me 
 
-- 🎓 Hi. I am a Freshman Computer Science student, Math and Finance Enthusiast, Researcher and web-developer. I like learning and building cs things. 
-- 📚 I like reading philosophy and sci-fi.
-- 🌱 I’m currently learning machine learning and web development.
-- 👯 I’m looking forward to collaborate on cool React frontends as well as ML projects.
+- 🎓 Hi. I am a Freshman **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
+- 📚 I like reading **philosophy and sci-fi**.
+- 🌱 I’m currently learning **machine learning and web development**.
+- 👯 I’m looking forward to collaborating on cool **React frontends and ML projects**.
 
 
 ---
