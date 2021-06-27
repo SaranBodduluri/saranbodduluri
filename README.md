@@ -2,7 +2,7 @@
 
 ### About Me 
 
-- 🎓 Hi. I am a Freshman **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
+- 🎓 Hi, I am a Freshman **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
 
 - 📚 I like reading **philosophy and sci-fi**.
 
