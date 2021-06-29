@@ -4,7 +4,7 @@
 
 - 🎓 Hi, I am a Freshman **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
 
-- 📚 I like reading **philosophy and sci-fi**.
+- 📚 I like reading **philosophy and sci-fi**. I am currently reading **Sapiens** and **The demon haunted world**. 
 
 - 🌱 I’m currently learning **machine learning and web development**.
 
