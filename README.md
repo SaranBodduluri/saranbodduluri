@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **machine learning and web development**.
 
-- 👯 I’m looking forward to collaborating on cool **React frontends and ML projects**.
+- 👯 I’m looking forward to collaborating on **Finance and ML projects**.
 
 
 ---
