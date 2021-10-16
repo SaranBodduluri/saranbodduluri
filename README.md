@@ -14,7 +14,7 @@
 ---
 ### Contact 📫
 
-[LinkedIn](https://linkedin.com/in/saranbodduluri)
+[LinkedIn](https://linkedin.com/in/saranbluri)
 
 
 <!--
