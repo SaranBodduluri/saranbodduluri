@@ -6,7 +6,7 @@
 
 - 📚 I like reading **philosophy and sci-fi**. 
 
-- 🌱 I’m currently learning **machine learning and web development**.
+- 🌱 I’m currently focused on learning **machine learning and R**.
 
 - 👯 I’m looking forward to collaborating on **Finance and ML projects**.
 
