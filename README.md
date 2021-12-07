@@ -16,7 +16,8 @@
 ---
 ### Contact 📫
 
-[LinkedIn](https://linkedin.com/in/saranbluri)
+[LinkedIn](https://linkedin.com/in/saranbluri)\
+[Twitter](https://twitter.com/saranbluri)
 
 
 <!--
