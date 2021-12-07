@@ -4,7 +4,7 @@
 
 - 🎓 Hi, I am a Sophomore **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
 
-- 📚 I like reading **philosophy and sci-fi**. 
+- 📚 I like reading **non-fiction and sci-fi**. 
 
 - 🌱 I’m currently focused on learning **machine learning and R**.
 
