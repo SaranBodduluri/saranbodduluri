@@ -10,6 +10,8 @@
 
 - 👯 I’m looking forward to collaborating on **Finance and ML projects**.
 
+- I also kill mosquitoes and fill water bottles sometimes.
+
 
 ---
 ### Contact 📫
