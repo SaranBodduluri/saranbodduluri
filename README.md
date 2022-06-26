@@ -1,5 +1,5 @@
-## <h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm [Saran](https://saranbodduluri.github.io) </h1>
-
+## <h1 align="center"> Hey there! , I'm [Saran](https://saranbodduluri.github.io) </h1>
+<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" /> -->
 ### About Me 
 
 - 🎓 Hi, I am a junior, **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
