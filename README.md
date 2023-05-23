@@ -4,7 +4,9 @@
 
 - 🎓 Hi, I am a junior, **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
 
-- 📚 I like reading. You can find my [readings here](https://silk-square-938.notion.site/Saran-s-Readings-ff01aab86713403ab12eb8ab9590ed35).
+- 📚 I like [reading](https://silk-square-938.notion.site/Saran-s-Readings-ff01aab86713403ab12eb8ab9590ed35).
+
+- ✍️ I also write blogs. Here's my [substack](https://saranbluri.substack.com/).
 
 - 🌱 I’m currently focused on learning **machine learning and R**.
 
