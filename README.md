@@ -1,14 +1,13 @@
-## <h1 align="center"> Hey there! , I'm [Saran](https://saranbodduluri.github.io) </h1>
-<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" /> -->
+## <h1 align="center"> Hey there! , I'm [Saran](https://saranbodduluri.github.io) </h1> 
 ### About Me 
 
-- 🎓 Hi, I am a junior, **Computer Science** student, **Math and Finance** Enthusiast, **Researcher and web-developer**. I like learning and building cs things. 
+- 🎓 Hi, I am a senior, **Computer Science** student, **Math and Finance** Enthusiast, and a **Researcher**. I like learning and building quant things. 
 
 - 📚 I like [reading](https://silk-square-938.notion.site/Saran-s-Readings-ff01aab86713403ab12eb8ab9590ed35).
 
 - ✍️ I also write blogs. Here's my [substack](https://saranbluri.substack.com/).
 
-- 🌱 I’m currently focused on learning **machine learning and R**.
+- 🌱 I’m currently focused on learning **Feature Engineering and topics in Quant Finance**.
 
 - 👯 I’m looking forward to collaborating on **Finance and ML projects**.
 
