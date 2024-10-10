@@ -1,7 +1,7 @@
 ## <h1 align="center"> Hey there! , I'm [Saran](https://saranbodduluri.github.io) </h1> 
 ### About Me 
 
-- 🎓 Hi, I am a senior, **Computer Science** student, **Math and Finance** Enthusiast, and a **Researcher**. I like learning and building quant things. 
+- 🎓 Hi, I am a quant at PL Capital, **Computer Science** student, **Math and Finance** Enthusiast. I like learning and building quant things. 
 
 - 📚 I like [reading](https://silk-square-938.notion.site/Saran-s-Readings-ff01aab86713403ab12eb8ab9590ed35).
 
