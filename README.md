@@ -1,4 +1,4 @@
-## <h1 align="center"> Hey there! , I'm [Saran](https://saranbodduluri.github.io) </h1> 
+## <h1 align="center"> Hey there! , I'm [Saran](https://saranbluri.com) </h1> 
 ### About Me 
 
 - 🎓 Hi, I am a quant at PL Capital, **Computer Science** student, **Math and Finance** Enthusiast. I like learning and building quant things. 
