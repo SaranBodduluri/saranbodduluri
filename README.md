@@ -7,7 +7,7 @@
 
 - ✍️ I also write blogs. Here's my [substack](https://saranbluri.substack.com/).
 
-- 🌱 I’m currently focused on learning **Feature Engineering and topics in Quant Finance**.
+- 🌱 I’m currently focused on learning **World Modeling and topics in Quant Finance**.
 
 - 👯 I’m looking forward to collaborating on **Finance and ML projects**.
 
