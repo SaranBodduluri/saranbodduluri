@@ -1,17 +1,12 @@
 ## <h1 align="center"> Hey there! , I'm [Saran](https://saranbluri.com) </h1> 
 ### About Me 
 
-- 🎓 Hi, This is Saran. I like learning and building quant things. 
+- 🎓 Hi, This is Saran. I like learning and building. 
 
 - 📚 I like [reading](https://silk-square-938.notion.site/Saran-s-Readings-ff01aab86713403ab12eb8ab9590ed35).
 
 - ✍️ I also write blogs. Here's my [substack](https://saranbluri.substack.com/).
 
-- 🌱 I’m currently focused on learning **World Modeling and topics in Quant Finance**.
-
-- 👯 I’m looking forward to collaborating on **Finance and ML projects**.
-
-- I also kill mosquitoes and fill water bottles sometimes.
 
 
 ---
